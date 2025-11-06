@@ -1,0 +1,20 @@
+{
+  "name": "throwaway",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/benduran/throwaway#readme",
+  "bugs": {
+    "url": "https://github.com/benduran/throwaway/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benduran/throwaway.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Benjamin Duran <stratodyne@gmail.com>",
+  "type": "module",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "asdsa"
+  }
+}
